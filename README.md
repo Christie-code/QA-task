@@ -1,4 +1,4 @@
-# Devops-task
+# QA-task
 
 Use npm start to run the server in naya-web and naya-api
 
