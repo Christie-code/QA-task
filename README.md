@@ -25,10 +25,10 @@ Logout,
 
 Testing React Components
 The Component tests were written using cypress.
-Install dependencies by running npm install on the terminal on the /naya-web folder
-Start the react app by running npm start
+Install dependencies by running npm install on the terminal on the /naya-web folder,
+Start the react app by running npm start.
 Start cypress studio  by running npm run cypress:open
-Choose Component Testing on the options presented by cypress studio
+Choose Component Testing on the options presented by cypress studio,
 You can run tests for the following components:
 ColorPicker
 SketchPreview
